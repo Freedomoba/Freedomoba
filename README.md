@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there, I'm Freedom Obanijesu Emmanuel 👋
 
-<!--
-**Freedomoba/Freedomoba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <strong>Product Engineer & Technical Growth Builder</strong> • Building scalable conversion funnels, conversational commerce systems, and automated digital products.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://lumenvoxai.com"><img src="https://img.shields.io/badge/Founder-Lumenvox_AI-blue?style=flat-square&logo=rocket" /></a>
+  <a href="mailto:freedomoba117@gmail.com"><img src="https://img.shields.io/badge/Email-freedomoba117%40gmail.com-red?style=flat-square&logo=gmail" /></a>
+  <a href="https://wa.me/2348053708909"><img src="https://img.shields.io/badge/WhatsApp-Chat_Direct-25D366?style=flat-square&logo=whatsapp" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm Building & Driving
+
+- 🎓 **[Newton Academy Funnel](https://github.com/Freedomoba/newton-academy)**: Engineered a production-grade scholarship admissions & student intake engine featuring dynamic financial valuation ledgers, zero-dependency pure-PHP PDF award letter generation, and automated WhatsApp CRM handoffs.
+- 🤖 **Conversational Automation & Bots**: Architecting multi-device WhatsApp bots (Baileys, Node.js) for customer support, group administration, and conversational commerce.
+- 🛒 **Agro-Commerce Platforms**: Developing direct-to-consumer order management and digital commerce applications for specialized agricultural distribution.
+
+---
+
+### 🛠️ Tech Stack & Capabilities
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Frontend & UI/UX** | JavaScript (ES6+), Tailwind CSS, HTML5, Responsive UI Engineering, Conversion Rate Optimization (CRO) |
+| **Backend & APIs** | PHP, Node.js, Python, REST APIs, Webhooks, Resend API, cPanel SMTP |
+| **Automation & Bots** | Baileys, WhatsApp Multi-Device APIs, Automated CRM Routing, PDF Generation |
+| **Cloud & Deployment** | cPanel / Apache, Git Version Control, GitHub Actions, DNS & Subdomain Architecture |
+
+---
+
+### 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Freedomoba&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Freedom's GitHub Stats" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+- 💼 **Open to:** High-impact product engineering roles, technical funnel builds, and conversational commerce automations.
+- 📍 **Location:** Lagos, Nigeria
+- 💬 **Ask me about:** Growth funnels, WhatsApp API automations, and turning software into revenue.
